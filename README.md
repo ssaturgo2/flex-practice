@@ -2,7 +2,7 @@
 This repository contains my solution to the Odin Project's Flexbox practice. The goal was to replicate a given website layout using flex
 
 ## Showcase
-[Solutions Showcase]()
+[Solutions Showcase](https://ssaturgo2.github.io/flex-practice/)
 
 ## Key Technologies
 -   HTML5
